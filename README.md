@@ -55,7 +55,7 @@ Plotly
 
 Jupyter Notebook
 
-## 🚀 How to Run the Project
+ 🚀 How to Run the Project
 
 1. Download DATA.csv from Google Drive and place it inside:
    data/DATA.csv
@@ -68,14 +68,14 @@ Jupyter Notebook
 
 4. Run all notebook cells step by step.
 
-5. ## 📊 Model Output
+5.  📊 Model Output
 
 - Fraud prediction probability  
 - Confusion matrix  
 - ROC-AUC score  
 - Classification report  
 
-## 🧪 Model File
+ 🧪 Model File
 
 - sample.h5  (small trained model included in repository)
 
